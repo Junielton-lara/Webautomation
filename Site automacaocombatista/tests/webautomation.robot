@@ -26,3 +26,8 @@ Cenario: Criar usuário através da sessão de lista de usuários
     E preecher todos os campo
     Quando clicar em criar
     Então deve ser apresentada a mensagem "Úsuario Criado com sucesso"
+
+
+# Cenario: TESTE
+#     [Tags]        TESTE
+#     Testes
